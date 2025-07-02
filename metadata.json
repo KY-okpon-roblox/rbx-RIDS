@@ -1,0 +1,6 @@
+{
+  "name": "Copy of 列車運行情報配信Webアプリケーション",
+  "description": "カスタム可能な列車の運行情報を設定し、定型の運行情報メッセージを生成して、指定したDiscordサーバーにWebhookで送信するアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
